@@ -1,0 +1,10 @@
+{
+    "version": 3,
+    "mappings": "AAAA,AAAA,CAAC,CAAA;EACC,OAAO,EAAE,CAAC;EACV,MAAM,EAAE,CAAC;EACT,UAAU,EAAE,UAAU;CACvB;;ACJD,AAAA,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,EAAE,CAAA;EACpB,KAAK,EAAE,KAAK;EACZ,WAAW,EAAE,qBAAqB;CACnC;;AAED,AAAA,CAAC,CAAA;EAEC,WAAW,EAAE,qBAAqB;CACnC;;ADCD,AAAA,IAAI,CAAA;EACF,KAAK,EAAE,IAAI;EAEX,gBAAgB,EAAE,OAAO;CAE1B",
+    "sources": [
+        "style.scss",
+        "sass/_typography.scss"
+    ],
+    "names": [],
+    "file": "style.css"
+}
